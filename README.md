@@ -1,3 +1,3 @@
 # tat
 training repository
-Read me file
+Read me file recu de git.com
